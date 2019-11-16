@@ -1,3 +1,5 @@
+<!-- ***IGNORE THIS PAGE...PART OF LARAVEL TEMPLATE*** -->
+
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>

@@ -75,8 +75,10 @@
         <div class="row no-gutters">
             <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/stage1.png');"></div>
             <div class="col-lg-6 my-auto showcase-text">
-                <h2>Staging</h2>
+                <h2>What We Do</h2>
                 <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 4 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 4!</p>
+                <h3>About Real Estate</h3>
+                <h3>Contact Us</h3>
             </div>
         </div>
         <div class="row no-gutters">
