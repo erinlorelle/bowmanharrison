@@ -45,7 +45,7 @@
                     <div class="features-icons-item mx-auto mb-0 mb-lg-3">
 
                         <figure>
-                            <img src="img/jamietami.jpg" width="500" height="500" alt="Jamie Bowman and Tami Harrison">
+                            <img src="img/jamietami.jpg" width="500" height="475" alt="Jamie Bowman and Tami Harrison">
                             <figcaption><em>Jamie Bowman and Tami Harrison</em></figcaption>
                         </figure>
 
