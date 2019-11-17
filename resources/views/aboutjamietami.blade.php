@@ -75,6 +75,8 @@
             </div>
 
         </div>
+        <h3>Testimonials, Awards, Accolades</h3>
+        <a href="testimonials"><img class="img-fluid rounded-circle mb-3" width="200" height="200" src="img/awards.png" alt=""></a>
 
     </section>
 
