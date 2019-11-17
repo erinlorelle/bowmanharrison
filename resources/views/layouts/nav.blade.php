@@ -26,7 +26,7 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">About Jamie and Tami</a>
+                        <a href="aboutjamietami">About Jamie and Tami</a>
                         <a href="#">Geographical Areas Served</a>
                         <a href="#">Evidence of Expertise</a>
                         <a href="#">Blog</a>

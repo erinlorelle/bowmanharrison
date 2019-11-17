@@ -4,32 +4,8 @@
 
     <section class="testimonials text-center bg-light">
         <div class="container">
-            <h2 class="mb-5">Search Properties</h2>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <a href="#"><img class="img-fluid rounded-circle mb-3" src="img/buy.jpg" alt=""></a>
-                        <h5>Buy</h5>
-                        <p class="font-weight-light mb-0">"Explore our guides to help you buy your new home!"</p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <a href="#"><img class="img-fluid rounded-circle mb-3" src="img/sell.jpg" alt=""></a>
-                        <h5>Sell</h5>
-                        <p class="font-weight-light mb-0">"We'll help you sell your home!  Click to find out how!"</p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <a href="featured"><img class="img-fluid rounded-circle mb-3" src="img/featured.jpg" alt=""></a>
-                        <h5>Featured Listings</h5>
-                        <p class="font-weight-light mb-0">"View NEW listings and featured properties!"</p>
-                    </div>
-                </div>
-            </div>
+            <h2 class="mb-5">Featured Listings</h2>
         </div>
-        <br><br>
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
             <form>
                 <div class="form-row">
@@ -49,6 +25,8 @@
     <!-- Properties Showcases -->
     <section class="showcase">
         <div class="container-fluid p-0">
+            <br>
+            <br>
             <a href="#" style="color: black; text-decoration: none;">
                 <div class="row no-gutters">
                     <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/house.jpeg');"></div>
