@@ -1,4 +1,5 @@
 <!-- Footer -->
+<hr>
 <footer class="footer bg-light">
     <div class="container">
 

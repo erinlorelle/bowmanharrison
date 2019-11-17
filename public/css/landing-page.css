@@ -135,7 +135,7 @@ footer.footer {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: grey;
+  background-color: black;
   color: white;
   border-radius: 10px;
   border: none;
@@ -175,4 +175,4 @@ footer.footer {
 .dropdown:hover .dropdown-content {display: block; transition-delay:1s;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: lightgrey;}
+.dropdown:hover .dropbtn {background-color: black;}

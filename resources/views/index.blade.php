@@ -17,7 +17,7 @@
                             <input type="email" class="form-control form-control-lg" placeholder="MLS, City, Address...">
                         </div>
                         <div class="col-12 col-md-3">
-                            <button type="submit" class="btn btn-block btn-lg btn-primary" style="background:#B20000; border:#B20000;">Search!</button>
+                            <button type="submit" class="btn btn-block btn-lg btn-primary" style="background:red; border:red;">Search!</button>
                         </div>
                     </div>
                 </form>
