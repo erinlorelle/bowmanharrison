@@ -54,9 +54,9 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">Why Stage</a>
-                        <a href="#">FAQs</a>
-                        <a href="#">For Realtors</a>
+                        <a href="staging">Portfolio</a>
+                        <a href="faq">FAQs</a>
+                        <a href="realtor">For Realtors</a>
                     </div>
                 </div>
 

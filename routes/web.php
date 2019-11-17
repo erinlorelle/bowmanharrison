@@ -24,4 +24,6 @@ Route::get('/featured', function () {return view('featured');});
 Route::get('/blog', function () {return view('blog');});
 Route::get('/buy', function () {return view('buy');});
 Route::get('/sell', function () {return view('sell');});
+Route::get('/faq', function () {return view('faq');});
+Route::get('/realtor', function () {return view('realtor');});
 
