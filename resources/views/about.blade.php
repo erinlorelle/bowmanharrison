@@ -11,11 +11,9 @@
 
                 <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                     <h1>The About Page</h1><br><br>
-                    <h2>About Jamie and Tami</h2>
-                    <p class="lead mb-0">When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!</p>
-                    <h3>History</h3>
-                    <h3>Professional Qualifications</h3>
-                    <h3>Experience</h3>
+                    <h2><a href="aboutjamietami">About Jamie and Tami</a></h2>
+                    <p class="lead mb-0">Learn more about Jamie and Tami, they're history, experience, and professional qualifications!</p>
+
 
                 </div>
             </div>

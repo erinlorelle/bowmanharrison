@@ -1,6 +1,88 @@
 <!-- Footer -->
 <footer class="footer bg-light">
     <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+                <ul class="list-inline mb-2">
+                    <li class="list-inline-item">
+                        <a href="about">Buy</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="contact">Sell</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Stage</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Property Listings</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">About Us</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item mr-3">
+                        <a href="https://www.crye-leike.com/" target="_blank" style="color: red;"><strong>Crye-Leike</strong></a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+                <ul class="list-inline mb-2">
+                    <li class="list-inline-item">
+                        <a href="#">Testimonials</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Newsletter</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item mr-3">
+                            Street Address City, State, Zip Phone Email
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+                <ul class="list-inline mb-2">
+                    <hr>
+                </ul>
+
+            </div>
+            <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item mr-3">
+                        <a href="#">
+                            <em>Switch to Desktop Mode</em>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+
+
         <div class="row">
             <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
                 <ul class="list-inline mb-2">
@@ -20,7 +102,7 @@
                         <a href="#">Privacy Policy</a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-4 mb-lg-0">&copy; Bowman Harrison Realty 2019. All Rights Reserved.</p>
+                <p class="text-muted small mb-4 mb-lg-0">Copyright&copy; Bowman Harrison Realty 2019. All Rights Reserved.</p>
             </div>
             <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">

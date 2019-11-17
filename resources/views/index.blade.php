@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-9 mx-auto">
-                <h1 class="mb-5">Find Your Nightmare Home!</h1>
+                <h1 class="mb-5"><a href="properties" style="color:white;">Buy</a>&nbsp&#9679&nbsp<a href="contact" style="color:white;">Sell</a>&nbsp&#9679&nbsp<a href="staging" style="color:white;">Stage</a></h1>
             </div>
             <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
                 <form>
@@ -17,7 +17,7 @@
                             <input type="email" class="form-control form-control-lg" placeholder="MLS, City, Address...">
                         </div>
                         <div class="col-12 col-md-3">
-                            <button type="submit" class="btn btn-block btn-lg btn-primary">Search!</button>
+                            <button type="submit" class="btn btn-block btn-lg btn-primary" style="background:#B20000; border:#B20000;">Search!</button>
                         </div>
                     </div>
                 </form>
@@ -86,7 +86,7 @@
             <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                 <h2>About The Region</h2>
                 <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
-            </div>
+order            </div>
         </div>
     </div>
 </section>

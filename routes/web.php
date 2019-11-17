@@ -19,4 +19,5 @@ Route::get('/properties', function () {return view('properties');});
 Route::get('/staging', function () {return view('staging');});
 Route::get('/testimonials', function () {return view('testimonials');});
 Route::get('/home', function () {return view('index');});
+Route::get('/aboutjamietami', function () {return view('aboutjamietami');});
 
