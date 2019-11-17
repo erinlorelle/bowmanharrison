@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 mx-auto">
-                    <h1>Blog</h1>
+                    <h1>This is a Blog</h1>
                     <h2>Keep up to date with trends and tips!</h2>
                 </div>
                 <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">

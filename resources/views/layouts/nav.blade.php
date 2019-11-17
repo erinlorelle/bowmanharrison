@@ -40,10 +40,10 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">Buy</a>
-                        <a href="#">Sell</a>
-                        <a href="#">Featured Listings</a>
-                        <a href="#">Search Properties</a>
+                        <a href="buy">Buy</a>
+                        <a href="sell">Sell</a>
+                        <a href="featured">Featured Listings</a>
+                        <a href="properties">Search Properties</a>
                     </div>
                 </div>
 
@@ -67,8 +67,8 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">Buy</a>
-                        <a href="#">Sell</a>
+                        <a href="buy">Buy</a>
+                        <a href="sell">Sell</a>
                     </div>
                 </div>
 
