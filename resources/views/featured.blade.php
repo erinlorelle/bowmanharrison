@@ -62,9 +62,10 @@
                     </div>
                 </div>
             </a>
-            <br>
 
         </div>
+        <br>
+        <br>
     </section>
 
 @endsection

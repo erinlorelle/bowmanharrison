@@ -5,7 +5,7 @@
     <section class="testimonials text-center bg-light">
         <div class="container">
             <h2>Staging Services</h2>
-            <a href="faq" style="color:black;">Why Stage?</a>
+            <a href="faq" style="color:black;"><h4>Why Stage?</h4></a>
             <br>
             <br>
             <br>

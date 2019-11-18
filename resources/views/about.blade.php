@@ -20,7 +20,11 @@
             <div class="row no-gutters">
                 <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/houses.jpg');"></div>
                 <div class="col-lg-6 my-auto showcase-text">
-                    <h2>Geographical Areas Served</h2>
+                    <a href="region"><h2 style="color:black;">About the Region</h2></a>
+                    <p class="lead mb-0">Click to learn more about the TriCities area!</p>
+
+                    <br>
+                    <h4>Geographical Areas Served</h4>
                     <p class="lead mb-0">
                         <ul>
                         <li>Johnson City, TN</li>
@@ -31,7 +35,6 @@
                         <li>Elizabethton, TN</li>
                     </ul>
                     </p>
-
                 </div>
             </div>
             <div class="row no-gutters">
@@ -56,6 +59,8 @@
                 </div>
             </div>
         </div>
+        <br>
+        <br>
     </section>
 
 

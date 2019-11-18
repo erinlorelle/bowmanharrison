@@ -26,4 +26,5 @@ Route::get('/buy', function () {return view('buy');});
 Route::get('/sell', function () {return view('sell');});
 Route::get('/faq', function () {return view('faq');});
 Route::get('/realtor', function () {return view('realtor');});
+Route::get('/region', function () {return view('region');});
 

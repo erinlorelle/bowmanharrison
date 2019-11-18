@@ -18,14 +18,14 @@
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                         <img class="img-fluid rounded-circle mb-3" src="img/testimonials-5.jpg" alt="">
                         <h5>Fred S.</h5>
-                        <p class="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
+                        <p class="font-weight-light mb-0">"Bowman Harrison did a fantasic job staging our home.  They also helped us find a smaller home more suitable for our needs!"</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                         <img class="img-fluid rounded-circle mb-3" src="img/testimonials-6.jpg" alt="">
                         <h5>Sarah W.</h5>
-                        <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
+                        <p class="font-weight-light mb-0">"Thanks, Jamie, for helping us buy our first home!"</p>
                     </div>
                 </div>
             </div>

@@ -8,23 +8,23 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <a href="#"><img class="img-fluid rounded-circle mb-3" src="img/buy.jpg" alt=""></a>
+                        <a href="buy"><img class="img-fluid rounded-circle mb-3" src="img/buy.jpg" alt=""></a>
                         <h5>Buy</h5>
-                        <p class="font-weight-light mb-0">"Explore our guides to help you buy your new home!"</p>
+                        <p class="font-weight-light mb-0">Explore our guides to help you buy your new home!</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <a href="#"><img class="img-fluid rounded-circle mb-3" src="img/sell.jpg" alt=""></a>
+                        <a href="sell"><img class="img-fluid rounded-circle mb-3" src="img/sell.jpg" alt=""></a>
                         <h5>Sell</h5>
-                        <p class="font-weight-light mb-0">"We'll help you sell your home!  Click to find out how!"</p>
+                        <p class="font-weight-light mb-0">We'll help you sell your home!  Click to find out how!</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="testimonial-item mx-auto mb-5 mb-lg-0">
                         <a href="featured"><img class="img-fluid rounded-circle mb-3" src="img/featured.jpg" alt=""></a>
                         <h5>Featured Listings</h5>
-                        <p class="font-weight-light mb-0">"View NEW listings and featured properties!"</p>
+                        <p class="font-weight-light mb-0">View NEW listings and featured properties!</p>
                     </div>
                 </div>
             </div>
@@ -84,9 +84,11 @@
                     </div>
                 </div>
             </a>
-            <br>
+
 
         </div>
+        <br>
+        <br>
     </section>
 
 @endsection
