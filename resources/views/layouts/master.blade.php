@@ -5,8 +5,9 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Bowman Harrison Realtor">
+    <meta name="author" content="Erin Lorelle Cook">
+    <link rel="icon" href="img/icon.png">
 
     <title>Bowman Harrison Realty</title>
 

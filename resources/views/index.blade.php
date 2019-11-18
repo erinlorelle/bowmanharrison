@@ -95,7 +95,7 @@
                 <a href="contact" style="text-decoration: none; color:black;"><h3>Contact Us</h3></a>
             </div>
         </div>
-        <a href="featured" style="text-decoration: none; color:black;"><div class="row no-gutters">
+        <a href="region" style="text-decoration: none; color:black;"><div class="row no-gutters">
             <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/region.jpg');"></div>
             <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                 <h2>About The Region</h2>
