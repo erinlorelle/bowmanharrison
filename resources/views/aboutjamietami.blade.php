@@ -27,10 +27,14 @@
             <h2 class="mb-5">About Jamie and Tami</h2>
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="resume-content">
+                <div class="resume-content" style="text-align: left;">
                     <h3 class="mb-0" style="text-align: left">History</h3>
                     {{--<div class="subheading mb-3">Intelitec Solutions</div>--}}
-                    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                    <p>Tami and Jamie are a mother/daughter team with professional experience in real estate buying, selling and staging.</p>
+
+                    <p>We have helped many families achieve their home ownership dreams through strategically navigating buyers and sellers through the entire process.</p>
+
+                    <p>Your time is precious and you need a team that you can easily communicate with and has real life experience in all facets of the real estate market.</p>
                 </div>
                 <div class="resume-date text-md-right">
                    {{-- <span class="text-primary">March 2013 - Present</span>--}}
@@ -63,7 +67,7 @@
                 <div class="resume-content">
                     <h3 class="mb-0" style="text-align: left">Qualifications</h3>
                     {{--<div class="subheading mb-3">Intelitec Solutions</div>--}}
-                    <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                    <p style="text-align: left;">We are both members of the Northeast Tennessee Association of Realtors and are affiliate brokers working for Crye-Leike Realtors. We also hold certification of relocation specialists through LeadingRE.</p>
                 </div>
                 <div class="resume-date text-md-right">
                     {{-- <span class="text-primary">March 2013 - Present</span>--}}

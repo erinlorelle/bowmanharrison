@@ -28,3 +28,4 @@ Route::get('/faq', function () {return view('faq');});
 Route::get('/realtor', function () {return view('realtor');});
 Route::get('/region', function () {return view('region');});
 
+

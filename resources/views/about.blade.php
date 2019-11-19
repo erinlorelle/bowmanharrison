@@ -20,21 +20,20 @@
             <div class="row no-gutters">
                 <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/houses.jpg');"></div>
                 <div class="col-lg-6 my-auto showcase-text">
-                    <a href="region"><h2 style="color:black;">About the Region</h2></a>
-                    <p class="lead mb-0">Click to learn more about the TriCities area!</p>
-
-                    <br>
-                    <h4>Geographical Areas Served</h4>
+                    <h3>Geographical Areas Served</h3>
+                    <p>We are located in Johnson City and serve all surrounding areas, including Washington County, Carter County, Sullivan County and Greene County.</p>
+                    <p>We have also worked with many families relocating to North East Tennessee and offer incoming families much needed one on one time to get to know each area of interest and offer expertise on all market areas, so that buyers can make the best decision when choosing their new home in a new area.
+                    </p>
                     <p class="lead mb-0">
                         <ul>
                         <li>Johnson City, TN</li>
                         <li>Bristol, TN</li>
                         <li>Kingsport, TN</li>
-                        <li>Grey, TN</li>
-                        <li>Erwin, TN</li>
-                        <li>Elizabethton, TN</li>
                     </ul>
-                    </p>
+                    </p><br>
+                    <a href="region"><h3 style="color:black;">About the Region</h3></a>
+                    <p class="lead mb-0">Click to learn more about the TriCities area!</p>
+
                 </div>
             </div>
             <div class="row no-gutters">
@@ -48,8 +47,12 @@
                     <br>
                     <h2>Blog</h2>--}}
                     <h2>Contact Information</h2>
-                    <p class=""><img src="../assets/img/icons/location.png" alt="">Street Address City, State, Zip<br /><img src="../assets/img/icons/phone-call.png" alt="">Phone</p>
-                    <p class=""><img src="../assets/img/icons/envelope.png" alt="">Email</p>
+                    <p class="">128 Princeton Rd St #2, Johnson City TN 37601<br>
+                        <br>Office: 423-232-0099
+                        <br>Tami: 423-737-4079
+                        <br>Jamie: 423-329-1342
+                    </p>
+                    <p class=""><a href = "mailto: bowmanharrisonrealtors@gmail.com">bowmanharrisonrealtors@gmail.com</a></p>
                     <p class="">
                         <a href="#" class="fa fa-facebook"></a><a href="#"> Facebook</a><br />
                         <a href="#" class="fa fa-twitter"></a><a href="#"> Twitter</a><br />
