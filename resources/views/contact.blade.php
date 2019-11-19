@@ -8,7 +8,8 @@
             <h1>Contact Us</h1><br>
             <h2>Bowman Harrison Realty</h2>
             <h4><img src="../assets/img/icons/location.png" alt=""> 128 Princetonj Rd. St #2 Johnson City, TN 37601</h4>
-            <h4><img src="../assets/img/icons/phone-call.png" alt=""> 423-232-0099</h4><br>
+            <h4><img src="../assets/img/icons/phone-call.png" alt=""> 423-232-0099</h4>
+            <h4><a href = "mailto: bowmanharrisonrealtors@gmail.com">bowmanharrisonrealtors@gmail.com</a></h4><br>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
@@ -45,7 +46,7 @@
                     <div class="features-icons-item mx-auto mb-0 mb-lg-3">
 
                         <figure>
-                            <img src="img/jamietami.jpg" width="500" height="475" alt="Jamie Bowman and Tami Harrison">
+                            <img src="img/jamietami.jpg" width="400" height="375" alt="Jamie Bowman and Tami Harrison">
                             <figcaption><em>Jamie Bowman and Tami Harrison</em></figcaption>
                         </figure>
 
@@ -59,6 +60,9 @@
                 </div>
             </div>
         </div>
+        <h3>Testimonials, Awards, Accolades</h3>
+        <a href="testimonials"><img class="img-fluid rounded-circle mb-3" width="200" height="200" src="img/awards.png" alt=""></a>
+
         <br>
         <br>
     </section>

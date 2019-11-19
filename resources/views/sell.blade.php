@@ -6,7 +6,7 @@
             <h2 class="mb-5">Selling</h2>
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="guides" style="color:black;"><div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                    <a href="guides#sell" style="color:black;"><div class="testimonial-item mx-auto mb-5 mb-lg-0">
                         <img class="img-fluid rounded-circle mb-3" src="img/sellingguide.jpeg" alt="">
                         <h5>Guides</h5>
                        {{-- <p class="font-weight-light mb-0"></p>--}}

@@ -68,8 +68,9 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="buy">Buy</a>
-                        <a href="sell">Sell</a>
+                        <a href="guides">Buying Guide</a>
+                        <a href="guides#sell">Selling Guide</a>
+                        <a href="guides#stage">Staging Guide</a>
                     </div>
                 </div>
 
