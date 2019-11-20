@@ -22,9 +22,23 @@
         </div>
     </section>--}}
 
+
+    <header class="jamiehead text-white text-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9 mx-auto">
+                    <h1>About Jamie and Tami</h1>
+                </div>
+                <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+
+                </div>
+            </div>
+        </div>
+    </header>
+
     <section class="testimonials text-center bg-light">
         <div class="container">
-            <h2 class="mb-5">About Jamie and Tami</h2>
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="resume-content" style="text-align: left;">
