@@ -89,7 +89,6 @@
                 </div>
                 <hr>
                 <div id="stage" class="post-preview">
-                    <a href="post.html" style="color:black;">
                         <h2 style="text-align: center;">
                             Home StagingGuide
                         </h2>
