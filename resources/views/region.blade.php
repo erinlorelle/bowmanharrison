@@ -20,6 +20,24 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
+
+                <h2>
+                    About the counties we serve
+                </h2>
+                <hr>
+                <img src="img/etennessee.gif" width="735" height="365" alt="Counties" usemap="#countymap">
+
+                <map name="countymap">
+                    <area shape="circle" coords="525,105,30" alt="Greene" href="greene">
+                    <area shape="circle" coords="510,48,22" alt="Hawkins" href="hawkins">
+                    <area shape="circle" coords="620,30,22" alt="Sullivan" href="sullivan">
+                    <area shape="circle" coords="588,78,30" alt="Washington" href="washington">
+                    <area shape="circle" coords="598,113,20" alt="Unicoi" href="unicoi">
+                    <area shape="circle" coords="650,78,28" alt="Carter" href="carter">
+                    <area shape="circle" coords="695,42,40" alt="Johnson" href="johnson">
+                </map>
+
+                <hr>
                 <div class="post-preview">
                     <a href="post.html" style="color:black;">
                         <h2 style="font-weight: bold">
