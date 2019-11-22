@@ -306,8 +306,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1925" />
+    <option name="y" value="-13" />
     <option name="width" value="1936" />
     <option name="height" value="1061" />
   </component>
@@ -391,10 +391,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="F:/CSCI5200_SWEng/MamaJane(copy)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -407,9 +408,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -865,8 +863,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/landing-page.css">
-    <entry file="file://$PROJECT_DIR$/public/css/landing-page.min.css">
+    <entry file="file://$PROJECT_DIR$/public/css/landing-page.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/landing-page.min.css" />
     <entry file="file://$PROJECT_DIR$/public/css/landing-page.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -945,12 +943,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/buy.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding>
-            <marker date="1574029382960" expanded="true" signature="9:25" ph="..." />
-            <marker date="1574029382960" expanded="true" signature="37:46" ph="..." />
-          </folding>
+        <state relative-caret-position="185" />
+        <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <folding>
+          <marker date="1574029382960" expanded="true" signature="9:25" ph="..." />
+          <marker date="1574029382960" expanded="true" signature="37:46" ph="..." />
+        </folding>
         <state relative-caret-position="2310">
           <caret line="70" column="37" lean-forward="false" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
           <folding />
