@@ -27,5 +27,10 @@ Route::get('/sell', function () {return view('sell');});
 Route::get('/faq', function () {return view('faq');});
 Route::get('/realtor', function () {return view('realtor');});
 Route::get('/region', function () {return view('region');});
-
-
+Route::get('/hawkins', function () {return view('hawkins');});
+Route::get('/sullivan', function () {return view('sullivan');});
+Route::get('/washington', function () {return view('washington');});
+Route::get('/johnson', function () {return view('johnson');});
+Route::get('/carter', function () {return view('carter');});
+Route::get('/unicoi', function () {return view('unicoi');});
+Route::get('/greene', function () {return view('greene');});
