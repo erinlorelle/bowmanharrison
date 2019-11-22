@@ -4,8 +4,8 @@
     <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="home">Bowman Harrison Realtors</a>
         &nbsp&nbsp&nbsp
-        <a href="#"><i class="fa fa-phone" style="color:white;">&nbsp&nbsp</i></a>
-        <a href="#"><i class="fa fa-facebook" style="color:white;">&nbsp&nbsp</i></a>
+        <a href="tel:423-232-0099"><i class="fa fa-phone" style="color:white;">&nbsp&nbsp</i></a>
+        <a href="http://www.facebook.com/Bowman/Harrison Team, Realtors At Crye-Leike Johnson City"><i class="fa fa-facebook" style="color:white;">&nbsp&nbsp</i></a>
         <a href="#"><i class="fa fa-twitter" style="color:white;">&nbsp&nbsp</i></a>
         <a href="#"><i class="fa fa-instagram" style="color:white;">&nbsp&nbsp</i></a>
 
