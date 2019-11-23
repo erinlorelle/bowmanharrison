@@ -39,7 +39,6 @@
 
                 <hr>
                 <div class="post-preview">
-                    <a href="post.html" style="color:black;">
                         <h2 style="font-weight: bold">
                             History of the TriCities
                         </h2>
@@ -47,7 +46,6 @@
                 </div>
                 <hr>
                 <div class="post-preview">
-                    <a href="post.html" style="color:black;">
                         <h2>
                             Annual Events
                         </h2>
@@ -61,7 +59,6 @@
                 </div>
                 <hr>
                 <div class="post-preview">
-                    <a href="post.html" style="color:black;">
                         <h2>
                             Hospitals
                         </h2>
@@ -77,7 +74,6 @@
                 </div>
                 <hr>
                 <div class="post-preview">
-                    <a href="post.html" style="color:black;">
                         <h2>
                             Colleges
                         </h2>
