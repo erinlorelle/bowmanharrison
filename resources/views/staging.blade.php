@@ -10,7 +10,12 @@
 
             function setImageVisible(id, visible) {
                 var img = document.getElementById(id);
-                img.style.visibility = (visible ? 'visible' : 'hidden');
+                if (img.style.visibility == 'hidden'){
+                    img.style.visibility = 'visible';
+                }else{
+                    img.style.visibility = 'hidden';
+                }
+                //img.style.visibility = (visible ? 'visible' : 'hidden');
             }
         </script>
 
