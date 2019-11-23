@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae752a43-4219-4202-b19c-8580db4183e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/etennessee.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/carter.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/greene.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/hawkins.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/johnson.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/sullivan.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/unicoi.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/washington.blade.php" afterDir="false" />
+    <list default="true" id="ae752a43-4219-4202-b19c-8580db4183e5" name="Default" comment="Implemented a clickable map for east tennessee counties about the region pages.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/region.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/region.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,88 +32,16 @@
         <entry file="file://$PROJECT_DIR$/resources/views/staging.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/region.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/unicoi.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/region.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/carter.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/johnson.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/washington.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/hawkins.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/sullivan.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/greene.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="680">
+              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -183,7 +102,6 @@
         <option value="$PROJECT_DIR$/resources/views/layouts/nav.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/sell.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/buy.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/region.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/greene.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/sullivan.blade.php" />
@@ -192,6 +110,7 @@
         <option value="$PROJECT_DIR$/resources/views/johnson.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/carter.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/unicoi.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/region.blade.php" />
       </list>
     </option>
   </component>
@@ -290,10 +209,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1925" />
-    <option name="y" value="-13" />
-    <option name="width" value="1936" />
-    <option name="height" value="1061" />
+    <option name="x" value="62" />
+    <option name="width" value="1858" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -328,6 +246,12 @@
             <path>
               <item name="bowmanharrison" type="b2602c69:ProjectViewProjectNode" />
               <item name="bowmanharrison" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bowmanharrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bowmanharrison" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -335,6 +259,13 @@
               <item name="bowmanharrison" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bowmanharrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bowmanharrison" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bowmanharrison" type="b2602c69:ProjectViewProjectNode" />
@@ -397,7 +328,8 @@
       <workItem from="1573762728452" duration="11874000" />
       <workItem from="1573862760705" duration="34310000" />
       <workItem from="1574027467247" duration="1918000" />
-      <workItem from="1574396998085" duration="3229000" />
+      <workItem from="1574396998085" duration="3705000" />
+      <workItem from="1574466168960" duration="2984000" />
     </task>
     <task id="LOCAL-00001" summary="Added listed base content">
       <created>1573906783046</created>
@@ -462,18 +394,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574022842014</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Implemented a clickable map for east tennessee counties about the region pages.">
+      <created>1574400429181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574400429181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69324000" />
+    <option name="totallyTimeSpent" value="72784000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="62" y="0" width="1858" height="1080" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18520579" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
@@ -547,7 +485,8 @@
     <MESSAGE value="Test message (4)" />
     <MESSAGE value="Test blog title" />
     <MESSAGE value="Added links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added links" />
+    <MESSAGE value="Implemented a clickable map for east tennessee counties about the region pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented a clickable map for east tennessee counties about the region pages." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/css/app.css" />
@@ -773,24 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/staging.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/region.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -840,6 +765,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/staging.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/region.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
         </state>
       </provider>
     </entry>
