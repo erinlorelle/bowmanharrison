@@ -13,8 +13,6 @@
                  {{--   <h1>The About Page</h1><br><br>--}}
                     <h2><a href="aboutjamietami" style="color:black;">About Jamie and Tami</a></h2>
                     <p class="lead mb-0">Click to learn more about Jamie and Tami, they're history, experience, and professional qualifications!</p>
-
-
                 </div>
             </div>
             <div class="row no-gutters">
