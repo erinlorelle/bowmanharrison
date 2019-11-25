@@ -79,18 +79,17 @@
 <section class="showcase">
     <div class="container-fluid p-0">
         <a href="featured" style="text-decoration: none;"><div class="row no-gutters" style="color:black;">
-
             <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/house2.jpg');"></div>
             <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                 <h2>Featured Listings</h2>
-                <p class="lead mb-0">When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!</p>
+                <p class="lead mb-0">View the latest trending properties for a better home! These properties are our most viewed and sought after Properties.</p>
             </div>
         </div></a>
         <div class="row no-gutters">
             <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/stage1.png');"></div>
             <div class="col-lg-6 my-auto showcase-text">
                 <h2>What We Do</h2>
-                <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 4 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 4!</p>
+                <p class="lead mb-0">Our goals are tailored to both buyers and sellers of real estate property.  We ensure every family, pet owner, and hard working customer finds the perfect roof to thrive under.  Bowman Harrison works diligently to provide a profitable platform for marketing homes at optimal returns.</p>
                 <h3>About Real Estate</h3>
                 <a href="contact" style="text-decoration: none; color:black;"><h3>Contact Us</h3></a>
             </div>
@@ -99,8 +98,8 @@
             <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/region.jpg');"></div>
             <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                 <h2>About The Region</h2>
-                <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
-order            </div>
+                <p class="lead mb-0">Johnson city is a historic culmination of innovation, brilliance, kindness, and southern culture.  The city offers plentiful events, high level education, delicious food, and beautiful housing.  Services offered range from outdoor parks,  backwoods, cultural centers, and a university.</p>
+            </div>
             </div></a>
     </div>
 </section>
