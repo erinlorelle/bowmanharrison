@@ -2,10 +2,24 @@
 
 @section('content')
 
+    <header class="faqhead text-white text-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9 mx-auto">
+                    <h1>FAQs</h1>
+                </div>
+                <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
     <section class="testimonials text-center bg-light">
         <div class="container">
-
-            <h2 class="mb-5">FAQs</h2>
             <section class="faq text-left">
 
                 <div id="accordion">
