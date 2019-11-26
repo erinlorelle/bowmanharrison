@@ -27,7 +27,7 @@
                     </button>
                     <div class="dropdown-content">
                         <a href="aboutjamietami">About Jamie and Tami</a>
-                        <a href="about">Geographical Areas Served</a>
+                        {{--<a href="about">Geographical Areas Served</a>--}}
                         <a href="testimonials">Evidence of Expertise</a>
                         <a href="region">About the Region</a>
                         <a href="blog">Blog</a>
@@ -55,7 +55,7 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="staging">Portfolio</a>
+                        {{--<a href="staging">Portfolio</a>--}}
                         <a href="faq">FAQs</a>
                         <a href="realtor">For Realtors</a>
                     </div>
@@ -68,9 +68,9 @@
                         </li>
                     </button>
                     <div class="dropdown-content">
-                        <a href="guides">Buying Guide</a>
-                        <a href="guides#sell">Selling Guide</a>
-                        <a href="guides#stage">Staging Guide</a>
+                        <a href="buyguide">Buying Guide</a>
+                        <a href="sellguide">Selling Guide</a>
+                        <a href="stagingguide">Staging Guide</a>
                     </div>
                 </div>
 
