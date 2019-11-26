@@ -35,6 +35,10 @@
                     {{--   <h1>The About Page</h1><br><br>--}}
                     <h2><a href="guides#stage" style="color:black;">Home Staging Guide</a></h2>
                     <p class="lead mb-0">Click to learn more about what staging can do for you!</p>
+                    <br>
+                    <br>
+                    <a href="faq" style="color:black;text-decoration: none;"><h2>FAQs</h2></a>
+                    <p class="lead mb-0">View answers to common staging questions!</p>
                 </div>
             </div>
             </div>
