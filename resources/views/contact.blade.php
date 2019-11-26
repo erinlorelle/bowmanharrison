@@ -28,6 +28,19 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
+                    <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+                        <figure>
+                            <img src="img/jamietami.jpg" width="400" height="375" alt="Jamie Bowman and Tami Harrison">
+                            <figcaption><em>Jamie Bowman and Tami Harrison</em></figcaption>
+                        </figure>
+                        {{--<div class="features-icons-icon d-flex">
+                            <i class="icon-check m-auto text-primary"></i>
+                        </div>
+                        <h3>About The Region</h3>
+                        <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p>--}}
+                    </div>
+                </div>
+                <div class="col-lg-4">
                     <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                         {{--<div class="features-icons-icon d-flex">
                             <i class="icon-layers m-auto text-primary"></i>
@@ -42,24 +55,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="features-icons-item mx-auto mb-0 mb-lg-3">
-
-                        <figure>
-                            <img src="img/jamietami.jpg" width="400" height="375" alt="Jamie Bowman and Tami Harrison">
-                            <figcaption><em>Jamie Bowman and Tami Harrison</em></figcaption>
-                        </figure>
-
-
-                        {{--<div class="features-icons-icon d-flex">
-                            <i class="icon-check m-auto text-primary"></i>
-                        </div>
-                        <h3>About The Region</h3>
-                        <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p>--}}
-                    </div>
-                </div>
             </div>
         </div>
+        <br>
         <h3>Testimonials, Awards, Accolades</h3>
         <a href="testimonials"><img class="img-fluid rounded-circle mb-3" width="200" height="200" src="img/awards.png" alt=""></a>
 
