@@ -27,7 +27,7 @@
                     </button>
                     <div class="dropdown-content">
                         <a href="aboutjamietami">About Jamie and Tami</a>
-                        <a href="about">Geographical Areas Served</a>
+                        {{--<a href="about">Geographical Areas Served</a>--}}
                         <a href="testimonials">Evidence of Expertise</a>
                         <a href="region">About the Region</a>
                         <a href="blog">Blog</a>
