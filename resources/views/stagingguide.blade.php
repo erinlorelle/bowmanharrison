@@ -115,8 +115,17 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
+
                 </div>
+                <br>
+                <br>
+                <br>
+                <hr>
+                <iframe src="storage/stagingdoc.pdf" width="85%" height="850px" style="display: block;margin-left: auto;margin-right: auto;">
+                    Example fallback content: This browser does not support PDFs. Please download the PDF to view it: Download PDF.
+                </iframe>
 
 
             </div>
