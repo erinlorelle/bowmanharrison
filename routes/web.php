@@ -34,3 +34,6 @@ Route::get('/johnson', function () {return view('johnson');});
 Route::get('/carter', function () {return view('carter');});
 Route::get('/unicoi', function () {return view('unicoi');});
 Route::get('/greene', function () {return view('greene');});
+Route::get('/sellguide', function () {return view('sellguide');});
+Route::get('/stagingguide', function () {return view('stagingguide');});
+Route::get('/buyguide', function () {return view('buyguide');});
