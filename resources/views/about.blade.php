@@ -5,17 +5,17 @@
     <!-- Image Showcases -->
     <section class="showcase">
         <div class="container-fluid p-0">
-            <div class="row no-gutters">
+            <div class="row no-gutters" style="color: black; text-decoration: none;">
 
                 <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/p3.jpg');"></div>
 
                 <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                  {{--   <h1>The About Page</h1><br><br>--}}
-                    <h2><a href="aboutjamietami" style="color:black;">About Jamie and Tami</a></h2>
+                    <h2><a href="aboutjamietami" style="color:black;text-decoration: none;">About Jamie and Tami</a></h2>
                     <p class="lead mb-0">Click to learn more about Jamie and Tami, they're history, experience, and professional qualifications!</p>
                 </div>
             </div>
-            <div class="row no-gutters">
+            <a href="region" style="text-decoration: none;"><div class="row no-gutters" style="color: black;">
                 <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/houses.jpg');"></div>
                 <div class="col-lg-6 my-auto showcase-text">
                     <h3>Geographical Areas Served</h3>
@@ -29,11 +29,11 @@
                         <li>Kingsport, TN</li>
                     </ul>
                     </p><br>
-                    <a href="region"><h3 style="color:black;">About the Region</h3></a>
+                    <h3 style="color:black;">About the Region</h3>
                     <p class="lead mb-0">Click to learn more about the TriCities area!</p>
 
                 </div>
-            </div>
+                </div></a>
             <div class="row no-gutters">
                 <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/region2.jpg');"></div>
                 <div class="col-lg-6 order-lg-1 my-auto showcase-text">
@@ -44,7 +44,7 @@
                     <h3>Success stories</h3>
                     <br>
                     <h2>Blog</h2>--}}
-                    <h2>Contact Information</h2>
+                    <a href="contact" style="color: black; text-decoration: none;"><h2>Contact Information</h2></a>
                     <p class="">128 Princeton Rd St #2, Johnson City TN 37601<br>
                         <br>Office: 423-232-0099
                         <br>Tami: 423-737-4079
@@ -58,7 +58,7 @@
                         <a href="#" class="fa fa-pinterest"></a><a href="#"> Pinterest</a><br />
                     </p>
                 </div>
-            </div>
+                </div>
         </div>
         <br>
         <br>

@@ -44,10 +44,7 @@
                     <li class="list-inline-item">
                         <a href="#">Property Listings</a>
                     </li>
-                    <li class="list-inline-item">&sdot;</li>
-                    <li class="list-inline-item">
-                        <a href="#">About Us</a>
-                    </li>
+
                 </ul>
 
             </div>
