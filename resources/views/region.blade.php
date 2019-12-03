@@ -25,7 +25,7 @@
                     About the counties we serve
                 </h2>
                 <hr>
-                <img src="img/etennessee.gif" width="735" height="365" alt="Counties" usemap="#countymap">
+                <img src="img/etennessee.gif"  alt="Counties" class="img-fluid" usemap="#countymap">
 
                 <map name="countymap">
                     <area shape="circle" coords="525,105,30" alt="Greene" href="greene">

@@ -2,12 +2,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background-color:black;">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="home">Bowman Harrison Realtors</a>
-        &nbsp&nbsp&nbsp
-        <a href="tel:423-232-0099"><i class="fa fa-phone" style="color:white;">&nbsp&nbsp</i></a>
-        <a href="http://www.facebook.com/Bowman/Harrison Team, Realtors At Crye-Leike Johnson City"><i class="fa fa-facebook" style="color:white;">&nbsp&nbsp</i></a>
-        <a href="#"><i class="fa fa-twitter" style="color:white;">&nbsp&nbsp</i></a>
-        <a href="#"><i class="fa fa-instagram" style="color:white;">&nbsp&nbsp</i></a>
+        <a class="navbar-brand js-scroll-trigger" href="home"><img class="img-fluid" width="50" height="50" src="img/logo.jpg">&nbsp&nbsp&nbspBowman Harrison Realtors</a>
 
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="color:black; background: red;">
             Menu
@@ -71,6 +66,7 @@
                         <a href="buyguide">Buying Guide</a>
                         <a href="sellguide">Selling Guide</a>
                         <a href="stagingguide">Staging Guide</a>
+                        <a href="terms">Terms</a>
                     </div>
                 </div>
 
@@ -82,5 +78,10 @@
                 </li>
             </ul>
         </div>
+        &nbsp&nbsp&nbsp&nbsp&nbsp
+        <a href="tel:423-232-0099"><i class="fa fa-phone" style="color:white;">&nbsp&nbsp</i></a>
+        <a href="http://www.facebook.com/Bowman/Harrison Team, Realtors At Crye-Leike Johnson City"><i class="fa fa-facebook" style="color:white;">&nbsp&nbsp</i></a>
+        <a href="#"><i class="fa fa-twitter" style="color:white;">&nbsp&nbsp</i></a>
+        <a href="#"><i class="fa fa-instagram" style="color:white;">&nbsp&nbsp</i></a>
     </div>
 </nav>

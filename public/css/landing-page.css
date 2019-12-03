@@ -17,6 +17,18 @@ h6 {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
+a.phonehover {
+    color: black;
+}
+
+a.phonehover:hover {
+    color: red;
+}
+
+.picresponsive {
+    max-width: 100%;
+    height: auto;
+}
 
 header.masthead {
   position: relative;
@@ -34,7 +46,7 @@ header.bloghead {
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
-    text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+    text-shadow: 1px 1px 2px black, 0 0 10px darkslategrey;
 }
 
 header.guidehead {
@@ -100,6 +112,26 @@ header.faqhead {
     position: relative;
     background-color: #343a40;
     background: url("../img/stage6.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    text-shadow: 1px 1px 2px black, 0 0 5px darkslategrey;
+}
+
+header.realtorhead {
+    position: relative;
+    background-color: #343a40;
+    background: url("../img/stagerealtors.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    text-shadow: 1px 1px 2px black, 0 0 10px darkslategrey;
+}
+
+header.termhead {
+    position: relative;
+    background-color: #343a40;
+    background: url("../img/terms.png") no-repeat center center;
     background-size: cover;
     padding-top: 8rem;
     padding-bottom: 8rem;

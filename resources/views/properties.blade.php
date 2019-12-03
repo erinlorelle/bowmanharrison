@@ -51,7 +51,7 @@
         <div class="container-fluid p-0">
             <a href="#" style="color: black; text-decoration: none;">
                 <div class="row no-gutters">
-                    <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/house.jpeg');"></div>
+                    <div class="col-lg-6 text-white showcase-img picresponsive" style="background-image: url('img/house.jpeg');"></div>
 
                     <div class="col-lg-6 my-auto showcase-text">
                         <strong style="font-size: x-large">123 Main Street, Johnson City, TN 37604</strong>
@@ -63,7 +63,7 @@
             <br>
             <a href="#" style="color: black; text-decoration: none;">
                 <div class="row no-gutters">
-                    <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/house.jpeg');"></div>
+                    <div class="col-lg-6 text-white showcase-img picresponsive" style="background-image: url('img/house.jpeg');"></div>
 
                     <div class="col-lg-6 my-auto showcase-text">
                         <strong style="font-size: x-large">123 Main Street, Johnson City, TN 37604</strong>
@@ -75,7 +75,7 @@
             <br>
             <a href="#" style="color: black; text-decoration: none;">
                 <div class="row no-gutters">
-                    <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/house.jpeg');"></div>
+                    <div class="col-lg-6 text-white showcase-img picresponsive" style="background-image: url('img/house.jpeg');"></div>
 
                     <div class="col-lg-6 my-auto showcase-text">
                         <strong style="font-size: x-large">123 Main Street, Johnson City, TN 37604</strong>

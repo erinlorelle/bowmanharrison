@@ -37,3 +37,4 @@ Route::get('/greene', function () {return view('greene');});
 Route::get('/sellguide', function () {return view('sellguide');});
 Route::get('/stagingguide', function () {return view('stagingguide');});
 Route::get('/buyguide', function () {return view('buyguide');});
+Route::get('/terms', function () {return view('terms');});

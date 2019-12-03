@@ -51,7 +51,8 @@
             <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item mr-3">
-                        <a href="https://www.crye-leike.com/" target="_blank" style="color: red;"><strong>Crye-Leike</strong></a>
+                        {{--<a href="https://www.crye-leike.com/" target="_blank" style="color: red;"><strong>Crye-Leike</strong></a>--}}
+                        <a href="https://www.crye-leike.com/" target="_blank"><img class="img-fluid" width="150" height="150" src="img/cllogo.jpg"></a>
                     </li>
 
                 </ul>
@@ -76,7 +77,7 @@
             <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item mr-3">
-                            Street Address City, State, Zip Phone Email
+                        866-310-3102 | <a href="mailto: CustomerService@crye-leike.com">CustomerService@crye-leike.com</a>
                     </li>
 
                 </ul>

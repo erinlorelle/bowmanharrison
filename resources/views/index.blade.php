@@ -90,8 +90,9 @@
             <div class="col-lg-6 my-auto showcase-text">
                 <h2>What We Do</h2>
                 <p class="lead mb-0">Our goals are tailored to both buyers and sellers of real estate property.  We ensure every family, pet owner, and hard working customer finds the perfect roof to thrive under.  Bowman Harrison works diligently to provide a profitable platform for marketing homes at optimal returns.</p>
-                <h3>About Real Estate</h3>
-                <a href="contact" style="text-decoration: none; color:black;"><h3>Contact Us</h3></a>
+                <br>
+                <a class="phonehover" href="tel:423-232-0099"><i class="fa fa-2x fa-phone">&nbsp423-232-0099</i></a>
+
             </div>
         </div>
         <a href="region" style="text-decoration: none; color:black;"><div class="row no-gutters">
