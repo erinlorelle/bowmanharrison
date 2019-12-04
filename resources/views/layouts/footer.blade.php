@@ -30,19 +30,19 @@
             <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
                 <ul class="list-inline mb-2">
                     <li class="list-inline-item">
-                        <a href="about">Buy</a>
+                        <a href="buy">Buy</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="contact">Sell</a>
+                        <a href="sell">Sell</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Stage</a>
+                        <a href="staging">Stage</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Property Listings</a>
+                        <a href="properties">Property Listings</a>
                     </li>
 
                 </ul>
@@ -65,7 +65,7 @@
             <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
                 <ul class="list-inline mb-2">
                     <li class="list-inline-item">
-                        <a href="#">Testimonials</a>
+                        <a href="testimonials">Testimonials</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">

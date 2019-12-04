@@ -4,23 +4,23 @@
 
     <header class="termhead text-white text-center">
     <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-9 mx-auto">
-                <h1>Terms</h1>
-            </div>
-            <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9 mx-auto">
+                    <h1>Terms</h1>
+                </div>
+                <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
 
+                </div>
             </div>
         </div>
-    </div>
     </header>
 
 
 
     <section class="text-center bg-light pt-4 pb-5">
     <div class="container">
-        <section class="faq text-left">
+        <div class="faq text-left">
 
             <div id="accordion">
                 <h3 class="mb-4">Definitions</h3>
@@ -350,6 +350,7 @@
 
             <br>
             <br>
+        </div>
 
     </section>
 
