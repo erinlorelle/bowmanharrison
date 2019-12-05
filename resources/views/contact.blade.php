@@ -7,8 +7,6 @@
     <div class="container">
         <h1>Contact Us</h1><br>
         <h2>Bowman Harrison Realty</h2>
-        <h4><img src="../assets/img/icons/location.png" alt=""> 128 Princeton Rd. St #2 Johnson City, TN 37601</h4>
-        <h4><img src="../assets/img/icons/phone-call.png" alt=""> 423-232-0099</h4>
         <h5><a href = "mailto: bowmanharrisonrealtors@gmail.com">bowmanharrisonrealtors@gmail.com</a></h5><br>
         <div class="row">
             <div class="col-lg-4">
@@ -58,10 +56,43 @@
         </div>
     </div>
     <br>
+
+    <div class="container" style="text-align: left;">
+        <form action="action_page.php">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+            <label for="email">Email Address</label>
+            <input type="text" id="email" name="email" placeholder="Email..">
+
+            <label for="phone">Phone (optional)</label>
+            <input type="text" id="phone" name="phone" placeholder="Phone number..">
+
+            <label for="city">City</label>
+            <select id="city" name="city">
+                <option value="johnsoncity">Johnson City</option>
+                <option value="bristol">Bristol</option>
+                <option value="kingsport">Kingsport</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Type your request.." style="height:200px"></textarea>
+
+            <input type="submit" value="Submit">
+
+        </form>
+        <br>
+        <br>
+    </div>
+
+
     <h3>Testimonials, Awards, Accolades</h3>
     <a href="testimonials"><img class="img-fluid rounded-circle mb-3" width="200" height="200" src="img/awards.png" alt=""></a>
 
-    <br>
     <br>
 </section>
 

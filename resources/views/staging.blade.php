@@ -88,8 +88,8 @@
                 <div class="gallery">
                     <div class="parent">
                         <a onclick="setImageVisible('img4', true)">
-                            <img class="image1" src="img/newbeforepic.png" alt="before1" width="600" height="400">
-                            <img class="image2" id="img4" src="img/newafterpic.jpeg" style="visibility:hidden"/>
+                            <img class="image1" src="img/before4.jpg" alt="before1" width="600" height="400">
+                            <img class="image2" id="img4" src="img/after4.jpg" style="visibility:hidden"/>
                         </a>
                     </div>
                 </div>

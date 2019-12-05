@@ -71,13 +71,19 @@
                     <li class="list-inline-item">
                         <a href="#">Newsletter</a>
                     </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item mr-3">
+                        <a href="#" style="color:purple;">
+                            <em>Switch to Desktop Mode</em>
+                        </a>
+                    </li>
                 </ul>
 
             </div>
             <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item mr-3">
-                        866-310-3102 | <a href="mailto: CustomerService@crye-leike.com">CustomerService@crye-leike.com</a>
+                        <a href="tel:423-232-0099">866-310-3102</a> | <a href="mailto: CustomerService@crye-leike.com">CustomerService@crye-leike.com</a>
                     </li>
 
                 </ul>
@@ -94,9 +100,7 @@
             <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item mr-3">
-                        <a href="#">
-                            <em>Switch to Desktop Mode</em>
-                        </a>
+                        423-232-0099 | 128 Princeton Rd. St #2 Johnson City, TN 37601
                     </li>
 
                 </ul>
@@ -134,7 +138,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item mr-3">
-                        <a href="#">
+                        <a href="http://www.facebook.com/Bowman/Harrison Team, Realtors At Crye-Leike Johnson City">
                             <i class="fab fa-twitter-square fa-2x fa-fw"></i>
                         </a>
                     </li>
