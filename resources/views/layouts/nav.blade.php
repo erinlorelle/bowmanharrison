@@ -56,20 +56,6 @@
                     </div>
                 </div>
 
-                <div class="dropdown">
-                    <button class="dropbtn">
-                        <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="guides" style="color:red">GUIDES</a>
-                        </li>
-                    </button>
-                    <div class="dropdown-content">
-                        <a href="buyguide">Buying Guide</a>
-                        <a href="sellguide">Selling Guide</a>
-                        <a href="stagingguide">Staging Guide</a>
-                        <a href="terms">Terms</a>
-                    </div>
-                </div>
-
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="testimonials" style="color:red">Testimonials</a>
                 </li>
