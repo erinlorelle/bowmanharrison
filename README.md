@@ -45,10 +45,6 @@ Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https:/
 Finished Product
 * Erin Lorelle 2019
 
-## Acknowledgments
-This is part of ETSU's Capstone GLOSA SpaT project.  This file is the middleware between the Android UI and the Java backend.  This was created solo, but colleagues are expected to assist in Spring 2020.
-* Inspiration
-* etc
 
 
 
